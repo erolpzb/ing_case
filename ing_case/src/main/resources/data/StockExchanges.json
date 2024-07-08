@@ -1,0 +1,34 @@
+{
+  "stockExchangeList": [
+    {
+      "id": 1,
+      "name": "exchange1",
+      "description": "desc1",
+      "liveInMarket": false
+    },
+    {
+      "id": 2,
+      "name": "exchange2",
+      "description": "desc2",
+      "liveInMarket": false
+    },
+    {
+      "id": 3,
+      "name": "exchange3",
+      "description": "desc3",
+      "liveInMarket": false
+    },
+    {
+      "id": 4,
+      "name": "exchange4",
+      "description": "desc4",
+      "liveInMarket": false
+    },
+    {
+      "id": 5,
+      "name": "exchange5",
+      "description": "desc5",
+      "liveInMarket": false
+    }
+  ]
+}
